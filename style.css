@@ -190,3 +190,12 @@ button {
     cursor: pointer;
     white-space: nowrap;
 }
+
+.footer {
+  background: #1F2937;
+  color: #E5E7EB;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 72px;
+}
